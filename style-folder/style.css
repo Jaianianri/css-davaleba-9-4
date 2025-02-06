@@ -604,10 +604,193 @@ main {
     font-size: 18px;
 }
 
-.blockchain-container {
+.blockchain-containerr {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 12px;
     align-self: stretch;
+}
+
+.blockchain-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+
+}
+
+.blockchainn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+}
+
+.blockch {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.blockc {
+    color: #7E7E7E;
+    font-family: Inter;
+    font-size: 18px;
+}
+
+.skvidvoer-contaoner {
+    background-image: url(../img-folder/image\ 6.png);
+    height: 700px;
+    max-width: 629px;
+    width: 100%;
+    padding: 112px 59px;
+}
+
+.skvidvoer-container {
+    display: inline-flex;
+    height: 483px;
+    padding: 56px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    background: rgba(28, 39, 82, 0.30);
+    justify-content: space-between;
+    backdrop-filter: blur(12.5px);
+}
+
+.skvidvoer-box {
+    display: flex;
+    max-width: 400px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.skvidvoer-div {
+    display: flex;
+    align-items: flex-start;
+    max-width: 400px;
+    width: 100%;
+}
+
+.skvid {
+    padding: 17px 18px;
+    background: #DD2590;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Mulish;
+    font-size: 25px;
+}
+
+.skvidvoer {
+    display: flex;
+    height: 65px;
+    padding: 17px 22px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    border: 1px solid #FFF;
+    color: #FFF;
+    width: 100%;
+    font-family: Mulish;
+    font-size: 25px;
+}
+
+.foto-containerr {
+    max-width: 1028px;
+    width: 100%;
+    display: flex;
+
+}
+
+.foto-wraper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 64px;
+}
+
+.foto-contant {
+    display: flex;
+    max-width: 768px;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.justtt {
+    color: #DD2590;
+
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.frommmm {
+    color: #7E7E7E;
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.foto-box {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-4xl, 32px);
+    align-self: stretch;
+}
+
+.footer-container {
+    max-width: 1028px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 56px;
+}
+
+.footer-wraper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    align-self: stretch;
+}
+.footer-box{
+display: flex;
+align-items: center;
+gap: 69px;
+padding: 42px 0;
+}
+.footer-div {
+    display: flex;
+width: 440px;
+flex-direction: column;
+align-items: flex-start;
+gap: 60px;
+}
+.pain {
+    color: #FFF;
+
+font-family: Inter;
+font-size: 18px;
+}
+.Blog {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+.Exploreee {
+    color: #FFF;
+
+font-family: Inter;
+font-size: 20px;
 }
